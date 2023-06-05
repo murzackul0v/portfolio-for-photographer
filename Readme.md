@@ -1,23 +1,16 @@
-Aperture Studios
+# Aperture Studios
 
-This is the documentation for the Aperture Studios project. It is a website that showcases the work of a photographer and filmmaker. The website is designed to provide information about the services offered and to display various photographs and videos.
-Table of Contents
+## This is the documentation for the Aperture Studios project. It is a website that showcases the work of a photographer and filmmaker. The website is designed to provide information about the services offered and to display various photographs and videos.
 
-    Installation
-    Usage
-    Features
-    Contributing
-    License
-
-Installation
+## Installation
 
 To use this project locally, follow these steps:
 
-    Clone the repository: git clone https://github.com/your-username/your-repository.git
+    Clone the repository: git clone https://github.com/murzackul0v/portfolio-for-photographer
     Navigate to the project directory: cd your-repository
     Open the index.html file in a web browser.
 
-Usage
+## Usage
 
 Once the project is set up, you can explore the website to see the work of the photographer and filmmaker. The website consists of different sections:
 
@@ -31,13 +24,13 @@ Once the project is set up, you can explore the website to see the work of the p
     Eighth Section: This section includes additional information about Aperture Studios, its business areas, and various pages of the website.
     Footer: The footer contains contact information, social media links, and a newsletter subscription form.
 
-Features
+## Features
 
     Interactive and visually appealing design
     Clear and concise information about the services offered
     Showcase of specific projects with descriptions
     Easy navigation through different sections of the website
 
-Contributing
+## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
